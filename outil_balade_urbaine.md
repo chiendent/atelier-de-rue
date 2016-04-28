@@ -28,7 +28,7 @@ Matériel :
 Cet outil s'utiise lors de balades urbaines. Chaque membre du groupe est muni d'un panneau smiley et peut le brandir à tout moment pour signifier un avis sur la situation urbaine qu'il traverse. 
 Les autres membre du groupe sont libres de se positionner ou non.
 
-![no](https://framapic.org/d/aC76XNIL16Wq/vUuDTBzjydLHg1brLBodYaK6)
+![no](https://framapic.org/aC76XNIL16Wq/WvF8CvMdaSoq.png)
 
 ## Restitution
 
