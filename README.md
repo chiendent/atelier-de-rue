@@ -1,3 +1,9 @@
+---
+title: 📂 Atelier de rue
+description: blabla
+image_url:
+---
+
 # Atelier de rue
 
 > Créer et organiser vos ateliers de rue pour recueillir les usages et les paroles habitantes.
