@@ -1,3 +1,9 @@
+---
+title: Se positionner avec l'outil smiley
+description: Un double panneau individuel à brandir soit de son côté positif soit de son côté négatif
+image_url: https://github.com/multibao/contributions/blob/master/media/outil-smiley.jpg?raw=true
+---
+
 # OUTIL "SMILEY"
 
 > L'outil smiley est un double panneau individuel à brandir soit de son côté positif soit de son côté négatif. 
