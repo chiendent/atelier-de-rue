@@ -1,3 +1,9 @@
+---
+title: Echanger avec les habitants
+description: Un atelier de rue est une façon d'échanger autour d'un thème, avec les habitants, passants ou usagers du lieu dans lequel il s'installe
+image_url: https://github.com/multibao/contributions/blob/master/media/atelier-rue.jpg?raw=true
+---
+
 # Atelier de rue
 
 ## En une phrase  
