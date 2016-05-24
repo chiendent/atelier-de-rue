@@ -1,6 +1,6 @@
 ---
-title: Atelier de rue
-description: Créer et organiser des ateliers de rue pour recueillir les usages et les paroles habitantes.
+title: Dépôt de fiches "Atelier de rue"
+description: Bienvenue sur ce dépôt de fiches qui vous servir à organiser et animer des ateliers de rue pour recueillir les usages et les paroles habitantes.
 image_url: https://github.com/multibao/contributions/blob/master/media/atelier_rue.jpg?raw=true
 ---
 
