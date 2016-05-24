@@ -1,7 +1,7 @@
 ---
 title: Café itinérant
 description: Un café itinérant est une initiative collective où plusieurs personnes se rassemblent dans l'espace public avec des chaises (et tables) pour prendre le café. Il est itinérant car il peut se déplacer informellement de lieux en lieux.
-image_url: https://github.com/multibao/contributions/blob/master/media/cafe_itinerant.jpg?raw=true
+image_url: https://github.com/multibao/contributions/blob/master/media/atelier_rue.jpg?raw=true
 ---
 
 # Café itinérant
