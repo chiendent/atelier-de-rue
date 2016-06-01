@@ -1,7 +1,8 @@
 ---
-title: Dépôt de fiches "Atelier de rue"
+title: Explorer des ateliers de rue
 description: Bienvenue sur ce dépôt de fiches qui vous servir à organiser et animer des ateliers de rue pour recueillir les usages et les paroles habitantes.
-image_url: 
+image_url: null
+published: true
 ---
 
 # Atelier de rue
@@ -14,4 +15,4 @@ Bonjour, ce dépôt de fiches est animé par le [collectif Chiendent](https://ww
 
 Toutes les fiches visibles sont publiées sous licence libre Creative Commons BY-SA.
 
-N'hésitez pas à [nous contacter](corentinseyfried@hotmail.fr) pour contribuer. 
+N'hésitez pas à [nous contacter](corentinseyfried@hotmail.fr) pour contribuer.
