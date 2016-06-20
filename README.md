@@ -1,5 +1,5 @@
 ---
-title: Dépôt de fiches "Atelier de rue"
+title: Atelier de rue - présentation du dépôt de fiches
 description: Bienvenue sur ce dépôt de fiches qui vous servir à organiser et animer des ateliers de rue pour recueillir les usages et les paroles habitantes.
 image_url: 
 ---
